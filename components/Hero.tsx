@@ -32,7 +32,7 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless Expereiences"
+            words="Transforming Concepts into Seamless User Expereiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I`m Carlos, a Fullstack Developer with a passion for creating

@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Carlos Animation Site Example",
+  title: "Carlos Animation Site",
   description:
     "Practice animations with Framer Motion + Next.js + Aceternity UI",
 };

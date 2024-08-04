@@ -3,8 +3,8 @@ import { gridItems } from "@/data";
 
 const Grid = () => {
   return (
-    <section id="about" className="">
-      <BentoGrid>
+    <section id="about">
+      <BentoGrid className="w-full py-20">
         {gridItems.map(
           ({
             id,
